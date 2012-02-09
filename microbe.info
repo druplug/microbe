@@ -1,0 +1,17 @@
+name = Microbe
+description = simple theme for Germ
+core = 7.x
+engine = phptemplate
+base theme = ninesixty
+
+; Regions
+regions[top] = Top
+regions[header] = Header
+regions[main_menu] = Main Menu
+regions[content] = Content
+regions[bottom] = Bottom
+regions[footer] = Footer
+
+stylesheets[all][] = styles/styles.css
+
+
