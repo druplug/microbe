@@ -1,5 +1,6 @@
 <?php
 
+/*
 function microbe_theme() {
   return array(
     'issue_node_form' => array(
@@ -11,3 +12,4 @@ function microbe_theme() {
     ),
   );
 }
+*/
