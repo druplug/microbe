@@ -13,5 +13,5 @@ regions[bottom] = Bottom
 regions[footer] = Footer
 
 stylesheets[all][] = styles/styles.css
-
+stylesheets[all][] = styles/framework/debug.css
 
